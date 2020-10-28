@@ -1,5 +1,4 @@
-# Automation Using Python 
-<h2><br><a href="https://youtu.be/fG_Ry6i5PbU">Link</a></h2>
+# Automation Using Python <h2><a href="https://youtu.be/fG_Ry6i5PbU">Link</a></h2>
 Integrated the Selenium web driver into Python. 
 The project included writing codes using python to perform the following automated tasks
 1. Send an email
